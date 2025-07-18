@@ -2,7 +2,7 @@
 
 <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="30px">&nbsp;***About me***
 
-I'm a software development technician from Argentina 🇦🇷, recently graduated in 2024.
+I'm a software development from Argentina 🇦🇷, recently graduated in 2024.
 I'm currently expanding my skills in backend and frontend development, and for my final project, I created a comprehensive e-commerce platform using .NET and Angular.
 I'm passionate about creating useful, creative, and practical solutions.
 
