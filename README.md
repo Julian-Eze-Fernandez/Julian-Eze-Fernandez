@@ -13,7 +13,7 @@ I'm passionate about creating useful, creative, and practical solutions.
 - 👯 I’m looking forward to joining my first dev team and collaborating on open-source projects.
 - ✔ Ask me about: Entity Framework, Angular, .NET and C#
 - Outside tech: 🎮 playing video games, ⚽ watching and playing soccer and 🎵 listening to music
-- 📫 Reach out to me at: fernandezjulian00@hotmail.com
+- 📫 Reach out to me at: [Hotmail](fernandezjulian00@hotmail.com)
 
 🔗 Check out my [portfolio](https://portfolio-julian-fernadez.vercel.app/) and [LinkedIn](https://www.linkedin.com/in/julian-fernandez16/)
 
